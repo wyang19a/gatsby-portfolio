@@ -1,3 +1,7 @@
-[submodule "portfolio-new"] 
-  path = portfolio-new 
+[submodule "portfolio-new"]
+  path = portfolio-new
   url = git://github.com/wyang19a/gatsby-portfolio.git/
+
+[submodule "portfoliosanity"] 
+  path = portfoliosanity
+  url = git://https://github.com/wyang19a/portfolio-sanity.git/
