@@ -4,4 +4,4 @@
 
 [submodule "portfolio-sanity"] 
   path = portfoliosanity
-  url = git://https://github.com/wyang19a/portfolio-sanity.git/
+  url = git://github.com/wyang19a/portfolio-sanity.git/
